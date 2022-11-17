@@ -137,7 +137,7 @@ caption: `> Haloo @${sender.split("@")[0]}!!
 ┃• *Ban* : ${cekUser("ban", sender)}
 ┃• *Premium* : ${cekUser("premium", sender)}
 ╰━─━─━─━─━─━─━─•
-• *Catatan* : Untuk Informasi bot ini kamu bisa kunjungi website ini! https://md-devs.xyz/botz`,
+• *Catatan* : Untuk Informasi bot ini kamu bisa kunjungi website ini! https://bit.ly/X-BOT`,
 buttons: [
 {buttonId: prefix + 'listmenu', buttonText: {displayText: 'LISTMENU-BOT'}, type: 1}
 ], headerType: 4
